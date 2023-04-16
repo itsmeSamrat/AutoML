@@ -7,10 +7,10 @@
     </a>
 </div>
 
-<!-- Project title  from https://readme-typing-svg.demolab.com/demo/ -->
+<!-- Project title-->
 
 <div align="center">
-<img src=" https://readme-typing-svg.demolab.com?font=raleway&duration=2500&pause=100&center=true&vCenter=true&multiline=true&width=450&height=90&lines=Garbage+Classification+using+MLJAR+;An+AutoML+Tool">
+<img src="https://readme-typing-svg.demolab.com?font=raleway&duration=2500&pause=100&center=true&vcenter=true&multiline=true&width=450&height=90&lines=Garbage+Classification+using+MLJAR+;An+AutoML+Tool">
 </div>
 
 ## Description
