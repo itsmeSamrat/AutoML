@@ -39,20 +39,21 @@ It is believed that 60% of all recyclable waste is dumped into wastelands along 
 
 ## Acknowledgement
 
-[Dataset](https://www.kaggle.com/datasets/sapal6/waste-classification-data-v2)
-[Paper](https://arxiv.org/abs/2208.07247)
+- [Dataset](https://www.kaggle.com/datasets/sapal6/waste-classification-data-v2)
+- [Paper](https://arxiv.org/abs/2208.07247)
 
 ## License
 
-This project is under MIT License - see the [License.txt file](https://github.com/itsmeSamrat/MLJAR-AutoML/blob/main/license.txt) for the details
+This project is under MIT License - see the [License.txt](https://github.com/itsmeSamrat/MLJAR-AutoML/blob/main/license.txt) file for more details.
 
 ## Feedback
 
-- If you notice any mistake or can make it better. Feel free to open a pull request and correct it.
+- If you notice any mistake or can make it better. Feel free to open a pull request and correct it or email me on the below email id.
 
 ## Contact Me 📨
 
-Reach me via email: [itsmesamratthapa@gmail.com](mailto:itsmesamratthapa@gmail.com)
+Email : [itsmesamratthapa@gmail.com](mailto:itsmesamratthapa@gmail.com)
 
 <!-- Back to the top -->
-<p align="right"><a href="#Getting Started">back to top ⬆️</a></p>
+
+[Return Back to Top ⬆️](#getting-started)
